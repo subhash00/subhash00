@@ -30,3 +30,9 @@
 # 📊 **GitHub Stats**
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=subhash00&show_icons=true&theme=radical&hide_title=true" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=subhash00&theme=radical" /> </p>
+
+#📫 Connect With Me
+
+📫 [Connect with me on LinkedIn](https://www.linkedin.com/in/subhashpathak1991)
+📝 [Read my blogs on Medium](https://medium.com/@subhash_pathak)
+
