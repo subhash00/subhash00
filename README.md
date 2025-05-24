@@ -1,8 +1,3 @@
-<!-- Banner or Profile Image -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3f87a6,100:ebf8e1&height=200&section=header&text=Hi,%20I'm%20Subhash Pathak!&fontSize=40&fontAlign=center" alt="header"/>
-</p>
-
 # 👋 Hello! I'm Subhash Pathak 
 ### 🔐 Cybersecurity Analyst | 🧠 VAPT Expert | 📱 React/React Native Developer
 
