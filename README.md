@@ -1,6 +1,6 @@
 <!-- Banner or Profile Image -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3f87a6,100:ebf8e1&height=200&section=header&text=Hi,%20I'm%20[Your Name]!&fontSize=40&fontAlign=center" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3f87a6,100:ebf8e1&height=200&section=header&text=Hi,%20I'm%20Subhash Pathak!&fontSize=40&fontAlign=center" alt="header"/>
 </p>
 
 # 👋 Hello! I'm Subhash Pathak 
@@ -31,5 +31,7 @@
 
 # Dev & Frameworks
 ⚛️ React | React Native | JavaScript | Node.js | Express | MongoDB | Git | Firebase
+
+# 📊 **GitHub Stats**
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=subhash00&show_icons=true&theme=radical&hide_title=true" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=subhash00&theme=radical" /> </p>
