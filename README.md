@@ -20,11 +20,10 @@
 
 🧰 **Tech Stack & Tools**
 
-bash
- Offensive Security
+# Offensive Security
 🛠️ Burp Suite | Nmap | OWASP ZAP | Nikto | Metasploit | Wireshark | 
 
- Cloud Security
+# Cloud Security
 ☁️ AWS | GCP (VAPT focused)
 
 # Web & API Security
@@ -32,3 +31,5 @@ bash
 
 # Dev & Frameworks
 ⚛️ React | React Native | JavaScript | Node.js | Express | MongoDB | Git | Firebase
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=subhash00&show_icons=true&theme=radical&hide_title=true" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=subhash00&theme=radical" /> </p>
